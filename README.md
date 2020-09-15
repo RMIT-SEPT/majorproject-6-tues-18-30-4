@@ -3,11 +3,10 @@
 # Group 00
 
 ## Members
-* SURNAME, GivenName (sXXXX)
-* SURNAME, GivenName (sXXXX)
-* SURNAME, GivenName (sXXXX)
-* SURNAME, GivenName (sXXXX)
-* SURNAME, GivenName (sXXXX)
+* CHUNG, Andy (s3603262)
+* SUN, Yue (s3739762)
+* YANG, Sai (s3740099)
+
 
 ## Records
 
