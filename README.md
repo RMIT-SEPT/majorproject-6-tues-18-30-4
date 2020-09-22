@@ -1,18 +1,17 @@
 # RMIT SEPT 2020 Major Project
 
-# Group 00
+# Group 6.TUES-18.30-4
 
 ## Members
-* SURNAME, GivenName (sXXXX)
-* SURNAME, GivenName (sXXXX)
-* SURNAME, GivenName (sXXXX)
-* SURNAME, GivenName (sXXXX)
-* SURNAME, GivenName (sXXXX)
+* Andy Chung, (s3603262)
+* Yue Sun (s3739762)
+* Sai Yang (s3740099)
+
 
 ## Records
 
-* Github repository : https://github.com/RMIT-SEPT/MajorProject/Groupx
-* ClickUp Workspace : https://app.clickup.com/xxxx/yyyy
+* Github repository :  https://github.com/RMIT-SEPT/majorproject-6-tues-18-30-4
+* ClickUp Workspace : http://localhost:3000/
 
 
 ## Code documentation
