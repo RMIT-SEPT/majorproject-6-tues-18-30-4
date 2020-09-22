@@ -17,4 +17,6 @@
 
 ## Code documentation
 
-[Quick Start](https://drive.google.com/drive/folders/1oied0eMKklPfRrNN2vZq_W15YJinRyMh?usp=sharing) in `docs` folder
+[快速启动] （https://drive.google.com/drive/folders/1oied0eMKklPfRrNN2vZq_W15YJinRyMh?usp=sharing）在`docs`夹
+
+##The files needed by milestone2 are in the docs
