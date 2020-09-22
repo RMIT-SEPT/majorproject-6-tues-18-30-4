@@ -16,4 +16,4 @@
 
 ## Code documentation
 
-[Quick Start](/docs/README.md) in `docs` folder
+[Quick Start](https://drive.google.com/drive/folders/1oied0eMKklPfRrNN2vZq_W15YJinRyMh?usp=sharing) in `docs` folder
