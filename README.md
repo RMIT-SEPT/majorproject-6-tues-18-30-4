@@ -11,7 +11,8 @@
 ## Records
 
 * Github repository :  https://github.com/RMIT-SEPT/majorproject-6-tues-18-30-4
-* ClickUp Workspace : http://localhost:3000/
+* Trello Workspace : https://trello.com/b/pWGuztkk/6tues-1830-4-gobooking 
+* web link: http://localhost:3000/ 
 
 
 ## Code documentation
