@@ -24,8 +24,8 @@ export default class Login extends React.Component {
         reqLogin(username,password).then(response =>{
             const data = response.data
             if (data.code === '1'){
-                message.success("login success")
-                localStorage.setItem("user",JSON.stringify(data.data))
+                message.success("login success");
+                localStorage.setItem("user",JSON.stringify(data.data));
                 this.setState({
                     login :true
                 })

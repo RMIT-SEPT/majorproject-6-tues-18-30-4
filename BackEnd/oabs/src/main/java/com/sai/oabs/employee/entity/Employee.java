@@ -3,19 +3,23 @@ package com.sai.oabs.employee.entity;
 import javax.persistence.*;
 
 @Entity
-@Table(name = "user")
+@Table(name = "employee")
 public class Employee {
 
     @Id
     @GeneratedValue(strategy= GenerationType.IDENTITY)
     private Long id;
 
+    //employee name
     private String name;
 
+    //employee code
     private String code;
 
+    //employee address
     private String address;
 
+    //employee phone
     private String phone;
 
     public Long getId() {

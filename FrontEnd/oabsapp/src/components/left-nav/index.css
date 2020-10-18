@@ -1,0 +1,9 @@
+.header{
+    color: white;
+}
+.header h1{
+    color: white;
+    display: flex;
+    justify-content: center;
+    background-color: #002140;
+}
